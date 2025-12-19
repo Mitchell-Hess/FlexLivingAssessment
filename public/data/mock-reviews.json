@@ -1,0 +1,469 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 7453,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9.5,
+      "publicReview": "Amazing property in the heart of Shoreditch! The apartment was spotless, modern, and had everything we needed. The host was very responsive and helpful. Would definitely stay here again!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-08-21 14:30:00",
+      "guestName": "Sarah Johnson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7454,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8.5,
+      "publicReview": "Great location near Old Street station. The apartment was clean and well-equipped. Only minor issue was the street noise at night, but overall a wonderful stay.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-09-15 10:45:00",
+      "guestName": "Michael Chen",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7455,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Perfect apartment for our London trip! The space was exactly as described, beautifully decorated, and in a fantastic neighborhood. The host provided excellent local recommendations. 10/10!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2024-10-02 16:20:00",
+      "guestName": "Emma Davis",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7456,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7.0,
+      "publicReview": "The apartment was nice but had a few maintenance issues. The heating wasn't working properly during our stay, which made it uncomfortable. Location is excellent though.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 7
+        },
+        {
+          "category": "location",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 6
+        }
+      ],
+      "submittedAt": "2024-11-10 09:15:00",
+      "guestName": "James Wilson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Vrbo"
+    },
+    {
+      "id": 7457,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9.0,
+      "publicReview": "Lovely stay in Kensington! The apartment is beautifully furnished and the area is quiet and upscale. Close to Hyde Park and museums. Highly recommend!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-07-28 11:30:00",
+      "guestName": "Sophie Anderson",
+      "listingName": "1B W8 C - Kensington Gardens Flat",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7458,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8.0,
+      "publicReview": "Good apartment in a great location. Everything was clean and functional. WiFi was a bit slow but otherwise no complaints.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "location",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 7
+        }
+      ],
+      "submittedAt": "2024-08-05 15:00:00",
+      "guestName": "Robert Martinez",
+      "listingName": "1B W8 C - Kensington Gardens Flat",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7459,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9.5,
+      "publicReview": "Absolutely wonderful! The flat exceeded our expectations. Spotless, comfortable bed, and the kitchen had everything we needed. Perfect for a couple's getaway.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-09-20 12:45:00",
+      "guestName": "Laura Thompson",
+      "listingName": "1B W8 C - Kensington Gardens Flat",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7460,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 6.5,
+      "publicReview": "The location is great but the apartment needs some updating. The furniture is worn and the bathroom could use renovation. Price seemed high for what you get.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 7
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "location",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-11-25 10:00:00",
+      "guestName": "David Brown",
+      "listingName": "1B W8 C - Kensington Gardens Flat",
+      "channel": "Vrbo"
+    },
+    {
+      "id": 7461,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9.8,
+      "publicReview": "Outstanding property in Notting Hill! The decor is Instagram-worthy, and the neighborhood is charming with lots of cafes and shops. Host was super accommodating. One of the best Airbnbs we've stayed at!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-06-15 14:20:00",
+      "guestName": "Jessica Lee",
+      "listingName": "Studio W11 B - Notting Hill Studio",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7462,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8.5,
+      "publicReview": "Cozy studio perfect for a solo traveler or couple. The area is vibrant and close to Portobello Market. Check-in was seamless.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-07-03 09:30:00",
+      "guestName": "Oliver White",
+      "listingName": "Studio W11 B - Notting Hill Studio",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7463,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7.5,
+      "publicReview": "Nice studio but quite small. Works fine for a short stay. The bed was comfortable and the shower had good pressure. A bit pricey for the size.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "location",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 6
+        }
+      ],
+      "submittedAt": "2024-08-18 16:45:00",
+      "guestName": "Natalie Garcia",
+      "listingName": "Studio W11 B - Notting Hill Studio",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7464,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9.2,
+      "publicReview": "Loved this place! Perfect location for exploring London. The studio is compact but well-designed with good storage. Would definitely book again.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-10-12 13:00:00",
+      "guestName": "Thomas Miller",
+      "listingName": "Studio W11 B - Notting Hill Studio",
+      "channel": "Vrbo"
+    },
+    {
+      "id": 7465,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8.8,
+      "publicReview": "Beautiful apartment with a view of the Thames! The location in Canary Wharf is modern and safe. Great for business travelers. Well-equipped kitchen.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "location",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-07-10 11:15:00",
+      "guestName": "Amanda Clark",
+      "listingName": "2B E14 D - Canary Wharf Tower View",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7466,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9.0,
+      "publicReview": "Excellent stay! The apartment is modern and spacious. Close to the DLR and plenty of restaurants nearby. Host was very helpful with local tips.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-08-25 10:30:00",
+      "guestName": "Christopher Taylor",
+      "listingName": "2B E14 D - Canary Wharf Tower View",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 7467,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Perfect in every way! Stunning views, immaculate apartment, and a fantastic location. The gym in the building was a great bonus. Can't fault anything!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2024-09-30 15:45:00",
+      "guestName": "Rachel Harris",
+      "listingName": "2B E14 D - Canary Wharf Tower View",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 7468,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7.8,
+      "publicReview": "Good apartment for business travel. The area can feel a bit corporate and quiet on weekends. Apartment itself was fine, but the building's elevator was slow during peak times.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "location",
+          "rating": 7
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-11-05 09:00:00",
+      "guestName": "Kevin Robinson",
+      "listingName": "2B E14 D - Canary Wharf Tower View",
+      "channel": "Vrbo"
+    }
+  ]
+}
