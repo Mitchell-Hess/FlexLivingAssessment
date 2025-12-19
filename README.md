@@ -84,12 +84,7 @@ rm -rf node_modules package-lock.json && npm install
 
 ## Google Reviews Integration
 
-Google Reviews integration was explored but not implemented. The Google Places API requires:
-- Business verification and API key setup
-- Per-request costs (approximately $0.017 per review fetch)
-- Complex OAuth flow for business owner verification
-
-For this assessment, the focus remained on the Hostaway API integration with extensible architecture that could accommodate Google Reviews in the future.
+I looked into integrating Google Reviews but decided against it for this assessment. The Google Places API needs business verification, costs money per request, and requires a complicated OAuth setup. The current architecture is built to support it later if needed, but for now the focus is on Hostaway which already provides comprehensive review data across multiple booking platforms.
 
 ## License
 
